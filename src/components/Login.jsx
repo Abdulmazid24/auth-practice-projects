@@ -54,9 +54,9 @@ const Login = () => {
             </div>
           </form>
           <div>
-            <p className="font-medium py-8 px-8">
+            <p className="font-medium py-4 px-8">
               New to this website ? Please{' '}
-              <Link to={'/SignUp'} className="text-purple-900 font-bold ml-2">
+              <Link to={'/signUp'} className="text-purple-900 font-bold ml-2">
                 Sign Up
               </Link>
             </p>
